@@ -16,11 +16,11 @@ function checkDivisibleBy5Or3(n) {
   }
 }
 
-/* const number = 1234;
+const number = 1234;
 checkFourDigit(number);
-checkDivisibleBy5Or3(number); */
+checkDivisibleBy5Or3(number);
 
-async function main() {
+/* async function main() {
   const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
   const number = Number(await rl.question('Enter Number: '));
   rl.close();
@@ -29,4 +29,4 @@ async function main() {
   checkDivisibleBy5Or3(number);
 }
 
-main();
+main(); */
